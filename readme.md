@@ -43,7 +43,7 @@ SAFE S Viewer는 동물병원 수술 마취 기록용 웹 반응형 애플리케
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./images/ex1.png" width="500">
+  <img src="./images/ex1.png" width="350">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ SAFE S Viewer는 동물병원 수술 마취 기록용 웹 반응형 애플리케
 
 
 <p align="center">
-  <img src="./images/ex2.png" width="500">
+  <img src="./images/ex2.png" width="350">
 </p>
 
 <p align="center">
