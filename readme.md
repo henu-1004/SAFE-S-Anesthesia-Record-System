@@ -28,7 +28,7 @@ SAFE S Viewer는 동물병원 수술 마취 기록용 웹 반응형 애플리케
 - 공식 등록 조회: https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/cmmn/convenientDtl.xml&regId=C-2024-056314
 
 <p align="center">
-  <img src="./images/safeS저작권증.jpg" width="500">
+  <img src="./images/safeS저작권증.jpg" width="250">
 </p>
 
 <p align="center">
