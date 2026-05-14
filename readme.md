@@ -17,6 +17,29 @@ SAFE S Viewer는 이러한 문제를 해결하기 위해 수술방 단위의 기
 
 ---
 
+## 🏷️ Copyright & Repository Policy
+
+SAFE S Viewer는 동물병원 수술 마취 기록용 웹 반응형 애플리케이션으로,  
+한국저작권위원회에 컴퓨터프로그램저작물로 등록된 프로젝트입니다.
+
+- 저작물명: 세이프 에스
+- 등록번호: C-2024-056314
+- 등록일: 2024.12.30
+- 공식 등록 조회: https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/cmmn/convenientDtl.xml&regId=C-2024-056314
+
+<p align="center">
+  <img src="./images/safeS저작권증.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>SAFE S Viewer copyright registration certificate</em>
+</p>
+
+현재 소스코드는 팀 프로젝트 및 지식재산권 관리 정책에 따라 비공개 저장소에서 관리하고 있으며,  
+본 레포지토리는 포트폴리오 목적으로 프로젝트 개요, 주요 기능, 기술 스택, 개발 흐름을 정리한 소개용 문서입니다.
+
+---
+
 ## 🖼️ Preview
 
 <p align="center">
@@ -333,15 +356,6 @@ SAFE S Viewer는 단순한 입력 화면이 아니라, 환자 정보, 수술 정
 또한 WebSocket과 Kafka를 활용한 실시간 데이터 전달 구조를 검토하면서,  
 여러 사용자가 동시에 같은 수술방 데이터를 확인하는 환경에서 Edit Mode와 Observer Mode를 분리하는 것이 중요하다는 점을 배웠습니다.
 
----
-
-## 🏷️ Copyright & Repository Policy
-
-SAFE S Viewer는 동물병원 수술 마취 기록용 웹 반응형 애플리케이션으로,  
-관련 기술 및 콘텐츠 저작권 출원 상태에 있는 프로젝트입니다.
-
-현재 소스코드는 팀 프로젝트 및 지식재산권 관리 정책에 따라 비공개 저장소에서 관리하고 있으며,  
-본 레포지토리는 포트폴리오 목적으로 프로젝트 개요, 주요 기능, 기술 스택, 개발 흐름을 정리한 소개용 문서입니다.
 
 ---
 
